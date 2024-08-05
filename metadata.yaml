@@ -1,0 +1,31 @@
+_repo: The-boy-me-and-the-cat-b-Cruise-of-the-Mascot-1912-1913_74010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Plummer, Henry Merrihew
+    alias: Plummer, Henry M.
+    birthdate: 1865
+    deathdate: 1928
+    gutenberg_agent_id: '57001'
+    url: http://www.gutenberg.org/2009/agents/57001
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74010'
+language: en
+pgterms:marc905: 20231123054306plummer
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Steve Mattern, Hannah Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aRye, New Hampshire :$bThe Cyrus Chandler Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atlantic Coast (U.S.) -- Description and travel'
+- !lcc 'F106'
+- GITenberg
+title: 'The boy, me and the cat : $b Cruise of the Mascot, 1912-1913'
+url: http://www.gutenberg.org/ebooks/74010
